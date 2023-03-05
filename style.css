@@ -1,0 +1,35 @@
+header{ 
+    width:100%
+   ;
+position: fixed;
+z-index: 999;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 50px100px;}
+.logo{
+    text-decoration: none;
+    color: rgb(103, 103, 216)
+  ;text-transform:uppercase ;
+  font-weight: 700;
+  font-size: 1.8em;
+}
+.navigation a{color: #3a6cf4;
+text-decoration: none;
+font-size: 1.1em;
+font-weight:700;
+padding: 30px;}
+.navigation a:hover{color: #601c60;}
+section{
+    padding: 50px;
+}
+.main {width:100%;
+  min-height: 100vh ;
+  display:flex;
+  align-items:center center;
+  background: url(images/287487158_104036419012182_4739223379866779524_n.jpg)no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+ 
+}
